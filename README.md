@@ -15,3 +15,6 @@ positional arguments:
 options:
   -h, --help  show this help message and exit
 ```
+
+### Credit
+This is based on https://github.com/teambi0s/dfunc-bypasser
