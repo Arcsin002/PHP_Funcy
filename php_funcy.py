@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 # Author: github.com/Arcsin002
+# Credit: github.com/teambi0s/dfunc-bypasser
 # Checks if dangerous functions are left out of phpinfo() disabled_functions
 
 import argparse
